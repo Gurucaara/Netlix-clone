@@ -1,12 +1,14 @@
 # NetflixGPT
 
+![Netflix GPT](assets/netGPT.png)
+
 Welcome to NetflixGPT, your ultimate destination for a personalized movie and TV show experience powered by cutting-edge technology. This project brings together the best of entertainment and artificial intelligence to create a seamless and engaging viewing experience.
 
 ## Project Setup
 
 Before diving into the world of NetflixGPT, make sure you've set up your environment correctly:
 
-1. **Clone this repository:** `git clone https://github.com/Gurucaara/NetflixGPT.git`
+1. **Clone this repository:** `git clone https://github.com/Gurucaara/Netlix-clone.git`
 2. **Install dependencies:** `npm install`
 3. **Add your API keys:** Create a `.env` file and add your TMDB and OpenAI API keys.
 4. **Run the app:** `npm start`
@@ -49,6 +51,17 @@ NetflixGPT offers a wide range of features to enhance your streaming experience:
 
 - Enjoy a seamless experience across all devices, from desktop to mobile.
 
+## Implementation Details
+
+This project covers various aspects of React development and integration with external services:
+
+- **Form Handling:** Implemented login and sign up forms with form validation and error handling.
+- **State Management:** Utilized Redux for managing user authentication state and movie data.
+- **API Integration:** Integrated TMDB API to fetch now playing movies and movie trailers.
+- **OpenAI Integration:** Leveraged OpenAI API for GPT-powered movie search functionality.
+- **Responsive Design:** Ensured the application is responsive across different screen sizes.
+- **Deployment:** Deployed the application to production for public access.
+
 ## Technologies Used
 
 NetflixGPT is built using cutting-edge technologies, including:
@@ -59,6 +72,6 @@ NetflixGPT is built using cutting-edge technologies, including:
 
 ## Feedback and Contributions
 
-We value your input and contributions. If you have suggestions, find a bug, or want to contribute to the project, please [submit an issue](https://github.com/yourusername/NetflixGPT/issues) or [create a pull request](https://github.com/yourusername/NetflixGPT/pulls). Your feedback is invaluable in making NetflixGPT even better.
+We value your input and contributions. If you have suggestions, find a bug, or want to contribute to the project, please [submit an issue](https://github.com/Gurucaara/NetflixGPT/issues) or [create a pull request](https://github.com/Gurucaara/NetflixGPT/pulls). Your feedback is invaluable in making NetflixGPT even better.
 
 Let's redefine the way you experience entertainment. Dive into NetflixGPT today and discover the perfect content, just for you! 🍿🎥
